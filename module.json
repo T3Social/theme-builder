@@ -1,0 +1,11 @@
+{
+  "id": "theme-builder",
+  "name": "Theme Builder",
+  "description": "The Theme Builder allows you to create own themes directly in your browser. ",
+  "keywords": [],
+  "version": "2.1.2",
+  "humhub": {
+    "minVersion": "1.7"
+  },
+  "screenshots": ["resources/screen1.PNG", "resources/screen2.PNG", "resources/screen3.PNG"]
+}
